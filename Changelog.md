@@ -2,7 +2,7 @@
 
 Language Features:
  * Provide access to creation and runtime code of contracts via ``type(C).creationCode`` / ``type(C).runtimeCode``.
-
+ * Feature: Add guomi.
 
 Compiler Features:
  * Control Flow Graph: Warn about unreachable code.
